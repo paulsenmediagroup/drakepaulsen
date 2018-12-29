@@ -4,7 +4,7 @@
  */
 
 // an email address that will be in the From field of the email.
-$from = 'drake@paulsenmediagroup.com';
+$from = 'drakepaulsen@gmail.com';
 
 // an email address that will receive the email with the output of the form
 $sendTo = 'drakepaulsen@gmail.com';
