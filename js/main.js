@@ -12,7 +12,7 @@ $(document).ready(function () {
 
     $(function(){
        element.typed({
-           strings: ["Designer.", "Developer.", "Freelaner."],
+           strings: ["Designer.", "Developer.", "Freelancer.", "Drake Paulsen!"],
            loop: true,
            typeSpeed: 90
        });
